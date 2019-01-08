@@ -1,5 +1,5 @@
 {
-  "name": "bitsharesjs-ws",
+  "name": "@quantadex/bitsharesjs-ws",
   "version": "1.5.5",
   "description": "Pure JavaScript Bitshares/Graphene websocket interface for node.js and browsers.",
   "browser": {
